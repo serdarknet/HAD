@@ -33,6 +33,12 @@
 - Kritik sistem paketlerine karşı koruma
 - RAM, depolama ve batarya bilgilerinin görüntülenmesi
 
+## 🖥️ Ekran Görüntüsü
+
+<p align="center">
+  <img src="SS.jpg" alt="HAD - HyperOS Android Debloater uygulama ekranı" width="100%">
+</p>
+
 ## Güvenlik yaklaşımı
 
 HAD yeni veya doğrulanmamış bir paketi otomatik olarak güvenli kabul etmez. Kritik sistem, güvenlik ve donanım bileşenleri için ek koruma uygulanır. Bununla birlikte her ROM ve cihaz farklı olabileceğinden işlem öncesinde önemli verilerinizi yedekleyin.
