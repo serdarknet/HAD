@@ -1,3 +1,13 @@
+<p align="center">
+  <img src="Banner.jpg" alt="HAD - HyperOS Android Debloater" width="100%">
+</p>
+
+<p align="center">
+  <a href="https://github.com/serdarknet/HAD/releases/latest">
+    <strong>⬇️ Download HAD</strong>
+  </a>
+</p>
+
 # HAD — HyperOS Android Debloater
 
 **HAD**, Xiaomi, Redmi ve POCO cihazlarda Android/HyperOS paketlerini **root gerektirmeden ADB üzerinden** yönetmek için geliştirilmiş Windows uygulamasıdır.
