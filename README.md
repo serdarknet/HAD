@@ -36,7 +36,7 @@
 ## 🖥️ Ekran Görüntüsü
 
 <p align="center">
-  <img src="SS.jpg" alt="HAD - HyperOS Android Debloater uygulama ekranı" width="100%">
+  <img src="SS.png" alt="HAD - HyperOS Android Debloater uygulama ekranı" width="100%">
 </p>
 
 ## Güvenlik yaklaşımı
