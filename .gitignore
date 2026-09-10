@@ -1,0 +1,46 @@
+# HAD public repository
+# Proprietary source code must never be committed.
+
+# Go source
+*.go
+go.mod
+go.sum
+go.work
+go.work.sum
+
+# Windows resource/build files
+*.syso
+*.rc
+*.res
+*.pdb
+*.map
+
+# Source archives
+HAD_Source*
+HAD_Final_Source*
+*Source*.zip
+*Source*.7z
+*Source*.rar
+
+# Source directories
+src/
+source/
+HAD_Source/
+HAD_Final_Source/
+
+# Build directories
+build/
+dist/
+bin/
+
+# Development files
+.vscode/
+.idea/
+.env
+.env.*
+*.log
+
+# Temporary files
+*.tmp
+*.bak
+*~
