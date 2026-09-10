@@ -1,0 +1,22 @@
+HAD SOFTWARE LICENSE
+Copyright (c) 2026 Serdar Kılıç. All Rights Reserved.
+
+HAD is proprietary, closed-source software.
+
+Permission is granted to end users to download and use an official compiled copy of HAD for lawful personal use, subject to this license.
+
+Unless separately authorized in writing by the copyright holder, you may not:
+- modify, adapt, translate, republish, sell, sublicense, or commercially redistribute HAD;
+- claim HAD or any part of it as your own work;
+- distribute modified or unofficial builds under the HAD name;
+- use HAD's proprietary source code, if obtained without authorization.
+
+Reverse engineering, decompilation, or disassembly is prohibited to the extent permitted by applicable law. Nothing in this license restricts rights that cannot legally be waived or restricted under applicable law.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE COPYRIGHT HOLDER SHALL NOT BE LIABLE FOR ANY CLAIM, DAMAGE, DATA LOSS, DEVICE MALFUNCTION, SERVICE/WARRANTY ISSUE, OR OTHER LIABILITY ARISING FROM THE SOFTWARE OR ITS USE.
+
+Third-party components, trademarks, tools, and services remain subject to their respective owners' terms and licenses.
+
+For permissions beyond this license:
+serdar-kilic@msn.com
+https://github.com/serdarknet
